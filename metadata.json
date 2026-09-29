@@ -1,0 +1,6 @@
+{
+  "name": "Skyler’s Daily Light",
+  "description": "Calendar view with daily Christian affirmations, guided diary reflections, mood tracking, milestones, and uplifting serenity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
